@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">In-progress web developer and mobile enthusiast from Argentina 🇦🇷</h3>
+<h3 align="center">Full stack Web developer, mobile enthusiast and QA Automation from Argentina 🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matirinfante&label=Profile%20views&color=29b40e&style=flat" alt="matirinfante" /> </p>
 
 <!-- 🔭 I’m currently working on // Actualmente trabajando en // Atualmente trabalhando no [RunnQ](https://www.runnq.com) -->
 
-- 🌱 I’m currently learning // Aprendiendo // Aprendendo **Flutter, Laravel, Vue, Selenium and Cypress**
+- 🌱 I’m currently learning // Aprendiendo // Aprendendo **Flutter, Vue and Playwright**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
