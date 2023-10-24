@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matirinfante&label=Profile%20views&color=29b40e&style=flat" alt="matirinfante" /> </p>
 
-<!-- 🔭 I’m currently working on // Actualmente trabajando en // Atualmente trabalhando no [RunnQ](https://www.runnq.com) -->
-
 - 🌱 I’m currently learning // Aprendiendo // Aprendendo **Flutter, Vue and Playwright**
 
 <h3 align="left">Languages and Tools:</h3>
